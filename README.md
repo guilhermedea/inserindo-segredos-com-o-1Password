@@ -68,7 +68,7 @@ Arquivos de ambiente permitem definir múltiplos segredos de uma vez só, atrav�
 
 Para utilizar o arquivo de ambiente com o comando `op run`, especifique o caminho do arquivo através da flag `--env-file`.
 
-`op run --env-file="./prod.env" -- [comando da aplicação]`
+`op run --env-file="./[arquivo.env]" -- [comando da aplicação]`
 
 > Exemplo de comando
 >
